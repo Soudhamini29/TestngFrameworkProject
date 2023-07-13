@@ -1,0 +1,186 @@
+23:07:11.670 [main] ERROR testCases.TC_001_AccountRegistrationTest - application logs...
+23:07:11.677 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+23:07:12.934 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+23:07:14.785 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+23:07:15.349 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+23:07:20.422 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+23:09:03.875 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+23:09:04.687 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+23:09:06.689 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+23:09:07.210 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+23:09:12.319 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+23:10:27.685 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+23:10:27.696 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+23:10:27.696 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+23:10:27.707 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@edf4f36
+23:10:27.726 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+23:10:27.727 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 17
+23:10:27.728 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+23:10:27.728 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+23:10:27.730 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+23:10:27.731 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+23:10:27.731 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+23:10:27.732 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+23:10:27.733 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @21213b92
+23:10:27.734 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+23:10:27.734 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+23:10:27.734 [main] DEBUG io.netty.util.internal.PlatformDependent - maxDirectMemory: 4133486592 bytes (maybe)
+23:10:27.735 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\TSOUDHAM\AppData\Local\Temp (java.io.tmpdir)
+23:10:27.735 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+23:10:27.735 [main] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+23:10:27.736 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+23:10:27.736 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+23:10:27.737 [main] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+23:10:27.737 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+23:10:27.743 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+23:10:27.759 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+23:10:27.759 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+23:10:27.966 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+23:10:27.966 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+23:10:27.995 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+23:10:28.002 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+23:10:28.002 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+23:10:28.073 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+23:10:28.073 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+23:10:28.073 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+23:10:28.073 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+23:10:28.074 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+23:10:28.074 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+23:10:28.074 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+23:10:28.074 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+23:10:28.074 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+23:10:28.074 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+23:10:28.074 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+23:10:28.074 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+23:10:28.085 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+23:10:28.085 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+23:10:28.085 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+23:10:28.998 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 16044 (auto-detected)
+23:10:28.999 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+23:10:28.999 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+23:10:29.007 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+23:10:29.008 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+23:10:29.017 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 50:84:92:ff:fe:d0:67:22 (auto-detected)
+23:10:29.061 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+23:10:29.061 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+23:10:29.061 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@639337fe
+23:10:29.077 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+23:10:29.077 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+23:10:29.077 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+23:10:29.077 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+23:10:30.479 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+23:10:30.583 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x1374be4015cb3bcf
+23:10:34.363 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs...
+23:10:34.363 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+23:10:35.029 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+23:10:37.087 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+23:10:38.666 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+23:10:43.749 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+12:08:59.074 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+12:09:01.413 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+12:09:01.985 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+12:09:03.434 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+12:09:08.473 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+12:14:56.034 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+12:14:56.725 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+12:14:57.298 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+12:14:57.781 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+12:15:02.832 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+12:19:31.095 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+12:19:32.097 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+12:19:32.686 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+12:19:33.190 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+12:19:38.240 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+12:33:54.989 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+12:33:55.656 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+12:33:56.185 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+12:33:56.652 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+12:34:01.696 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+20:03:24.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+20:03:25.170 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+20:03:25.773 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+20:03:26.270 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+20:03:31.316 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+20:10:59.135 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+20:10:59.608 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+20:11:00.194 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+20:11:00.676 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+20:11:05.722 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+20:12:24.960 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+20:12:25.668 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+20:12:26.231 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+20:12:27.607 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+20:12:32.653 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+20:13:52.248 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+20:13:53.867 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+20:13:54.400 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+20:13:54.817 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+20:13:59.869 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+16:50:39.812 [main] INFO  testCases.TC_002_LoginTest - ...Executing Login Test...
+16:50:39.835 [main] INFO  testCases.TC_002_LoginTest - ...Providing Login info...
+16:50:40.020 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+11:11:29.915 [main] INFO  testCases.TC_002_LoginTest - ...Executing Login Test...
+11:11:29.934 [main] INFO  testCases.TC_002_LoginTest - ...Providing Login info...
+11:11:30.082 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+21:46:06.407 [main] INFO  testCases.TC_003_LoginDDT - ...Staring TC_003_LoginDataDriven Test...
+21:46:06.438 [main] INFO  testCases.TC_003_LoginDDT - ...Providing Login info...
+21:46:06.685 [main] INFO  testCases.TC_003_LoginDDT - ...Staring TC_003_LoginDataDriven Test...
+21:46:06.686 [main] INFO  testCases.TC_003_LoginDDT - ...Providing Login info...
+21:46:06.870 [main] INFO  testCases.TC_003_LoginDDT - ...Staring TC_003_LoginDataDriven Test...
+21:46:06.870 [main] INFO  testCases.TC_003_LoginDDT - ...Providing Login info...
+21:46:07.043 [main] INFO  testCases.TC_003_LoginDDT - ...Staring TC_003_LoginDataDriven Test...
+21:46:07.043 [main] INFO  testCases.TC_003_LoginDDT - ...Providing Login info...
+21:46:07.232 [main] INFO  testCases.TC_003_LoginDDT - ...Staring TC_003_LoginDataDriven Test...
+21:46:07.232 [main] INFO  testCases.TC_003_LoginDDT - ...Providing Login info...
+21:46:07.434 [main] INFO  testCases.TC_003_LoginDDT - ...Staring TC_003_LoginDataDriven Test...
+21:46:07.435 [main] INFO  testCases.TC_003_LoginDDT - ...Providing Login info...
+22:03:01.999 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+22:03:02.612 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:03:03.616 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+22:03:04.099 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+22:03:09.162 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+22:03:16.534 [main] INFO  testCases.TC_002_LoginTest - ...Executing Login Test...
+22:03:16.538 [main] INFO  testCases.TC_002_LoginTest - ...Providing Login info...
+22:03:16.841 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+22:05:33.951 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+22:05:34.573 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:05:35.835 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+22:05:36.305 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+22:05:41.378 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+11:55:35.722 [main] INFO  testCases.TC_003_LoginDDT - ...Staring TC_003_LoginDataDriven Test...
+11:55:35.738 [main] INFO  testCases.TC_003_LoginDDT - ...Providing Login info...
+11:55:35.945 [main] INFO  testCases.TC_003_LoginDDT - ...Staring TC_003_LoginDataDriven Test...
+11:55:35.945 [main] INFO  testCases.TC_003_LoginDDT - ...Providing Login info...
+11:55:36.120 [main] INFO  testCases.TC_003_LoginDDT - ...Staring TC_003_LoginDataDriven Test...
+11:55:36.121 [main] INFO  testCases.TC_003_LoginDDT - ...Providing Login info...
+11:55:36.286 [main] INFO  testCases.TC_003_LoginDDT - ...Staring TC_003_LoginDataDriven Test...
+11:55:36.286 [main] INFO  testCases.TC_003_LoginDDT - ...Providing Login info...
+11:55:36.463 [main] INFO  testCases.TC_003_LoginDDT - ...Staring TC_003_LoginDataDriven Test...
+11:55:36.463 [main] INFO  testCases.TC_003_LoginDDT - ...Providing Login info...
+11:55:36.626 [main] INFO  testCases.TC_003_LoginDDT - ...Staring TC_003_LoginDataDriven Test...
+11:55:36.627 [main] INFO  testCases.TC_003_LoginDDT - ...Providing Login info...
+11:57:30.989 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+11:57:31.514 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+11:57:32.061 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+11:57:32.484 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+11:57:37.537 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+12:42:04.745 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+12:42:05.522 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+12:42:06.058 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+12:42:06.628 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+12:42:11.665 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+14:20:07.204 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+14:20:07.721 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+14:20:08.234 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+14:20:08.633 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+14:20:13.688 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+14:20:34.013 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+14:20:34.557 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+14:20:35.113 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+14:20:35.520 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+14:20:40.559 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
+14:22:37.573 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting the execution of TC_001_AccountRegistrationTest ***
+14:22:38.092 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+14:22:38.654 [main] INFO  testCases.TC_001_AccountRegistrationTest - Customer Details are filled
+14:22:39.074 [main] INFO  testCases.TC_001_AccountRegistrationTest - Submit is clicked
+14:22:44.124 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation msg is verified
